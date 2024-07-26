@@ -1,9 +1,9 @@
 ## Langauges & Tools
-<p align="center">
+
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=css,html,js,python,java,react" />
   </a>
-</p>
+
 <!--
 **onlyone020608/onlyone020608** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
