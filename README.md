@@ -1,7 +1,7 @@
 ## Langauges & Tools
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,js,python,java,react" />
+    <img src="https://skillicons.dev/icons?i=django,spring,nestjs,nextjs,css,html,js,python,java,react" />
   </a>
 
 <!--
