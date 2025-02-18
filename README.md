@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=3F72AF&height=300&section=header&text=Hyewon%20Kim&fontSize=60&fontColor=222831&desc=Hi%20%I'm%20&descAlignY=30&descSize=35&descAlign=35)
+![header](https://capsule-render.vercel.app/api?type=venom&color=F9F7F7&height=300&section=header&text=Hyewon%20Kim&fontSize=60&fontColor=222831&desc=Hi%20%I'm%20&descAlignY=30&descSize=35&descAlign=35)
 
 ## Langauges & Tools
 <div align="left">
