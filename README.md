@@ -3,7 +3,7 @@
 ## Langauges & Tools
 <div align="left">
   <a href="https://skillicons.dev" align="center">
-    <img src="https://skillicons.dev/icons?i=spring,nestjs,nextjs,css,html,js,python,java,react" />
+    <img src="https://skillicons.dev/icons?i=spring,django,nestjs,nextjs,css,html,js,python,java,react" />
   </a>
 
 
