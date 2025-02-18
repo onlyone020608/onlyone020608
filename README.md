@@ -1,8 +1,24 @@
-## Langauges & Tools
+![header](https://capsule-render.vercel.app/api?type=venom&color=DBE2EF&height=300&section=header&text=Hyewon%20Kim&fontSize=60&fontColor=222831&desc=Hi%20%I'm%20&descAlignY=30&descSize=35&descAlign=35)
 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,spring,nestjs,nextjs,css,html,js,python,java,react" />
+## Langauges & Tools
+<div align="left">
+  <a href="https://skillicons.dev" align="center">
+    <img src="https://skillicons.dev/icons?i=spring,nestjs,nextjs,css,html,js,python,java,react" />
   </a>
+
+
+
+## Connect with me
+<div align="center">
+  <a href="www.linkedin.com/in/hyewonkim0608" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+   </a>
+</div>
+
+
 
 <!--
 **onlyone020608/onlyone020608** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
